@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lehar</string>
+
+    <!--Main Activity related string-->
+    <string name="main_activty_title">Was india better then south africa in current series</string>
+    <string name="more_speakers">More\nSpeakers</string>
+</resources>
